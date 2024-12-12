@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+    <student>
+        <course>
+        </course>
+        <id>1</id>
+        <location>New Delhi</location>
+        <name>arvind</name>
+        <phone>1234567890</phone>
+    </student>
+    <student>
+        <course>Python</course>
+        <id>2</id>
+        <location>London</location>
+        <name>Jane</name>
+        <phone>9876543210</phone>
+    </student>
+</students>
