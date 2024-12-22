@@ -87,8 +87,8 @@ curl -X DELETE https://restapiapp.onrender.com/api/students/1
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/student-rest-api.git
-cd student-rest-api
+git clone https://github.com/arvind-git-code/REST_API_APPLICATION.git
+cd REST_API_APPLICATION
 ```
 
 2. Build the project
@@ -107,12 +107,12 @@ The application will be available at `http://localhost:8080`
 
 1. Build the Docker image
 ```bash
-docker build -t student-rest-api .
+docker build -t REST_API_APPLICATION .
 ```
 
 2. Run the container
 ```bash
-docker run -p 8080:8080 student-rest-api
+docker run -p 8080:8080 REST_API_APPLICATION
 ```
 
 ## Deployment
