@@ -153,12 +153,5 @@ Feel free to submit issues and enhancement requests.
 ## Author
 Arvind Maurya
 
-## Built With
-- [Cursor Editor](https://cursor.sh/)
-
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-- Spring Boot Team
-- Render.com for hosting
