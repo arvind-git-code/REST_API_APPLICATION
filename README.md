@@ -147,8 +147,24 @@ The application is deployed on Render.com using Docker containerization. The dep
 - For XML requests, use `Content-Type: application/xml`
 - Data is stored in memory and resets when the application restarts
 
-## Contributing
-Feel free to submit issues and enhancement requests.
+Contributions are welcome! Please follow these steps:
+
+Fork the repository.
+
+1. Create a new branch: `git checkout -b feature/your-feature-name`
+
+2. Make your changes and commit them: `git commit -m 'Add some feature'`
+
+3. Push to the branch: `git push origin feature/your-feature-name`
+
+4. Open a pull request.
+
+
+## Connect with me
+
+- **Name:** Arvind Kumar
+- **LinkedIn:** [LinkedIn Profile URL](https://www.linkedin.com/in/arvind-kumar-a8b591221/)
+- **Email:** [Email](mailto:arvindkumarlbsmca@gmail.com).
 
 ## Author
 Arvind Maurya
