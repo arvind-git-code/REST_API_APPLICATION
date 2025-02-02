@@ -87,7 +87,7 @@ public class StudentController {
     public ResponseEntity<String> addStudent(@RequestBody Student newStudent) {
         try {
             studentsData.getStudents().add(newStudent);
-            return ResponseEntity.created("Student added successfully");
+            return ResponseEntity.ok("Student added successfully");
         } catch (Exception e) {
             e.printStackTrace();
             return ResponseEntity.internalServerError()
